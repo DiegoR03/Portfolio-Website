@@ -1,8 +1,8 @@
 function start() {
     var rotator = document.getElementById('rotator');  
     var rotator2 = document.getElementById('rotator2');  
-    var imageDir1 = '..\\images\\rotationCycleTop\\';
-    var imageDir2 = '..\\images\\rotationCyclePortfolio\\';                          
+    var imageDir1 = '.\\images\\rotationCycleTop\\';
+    var imageDir2 = '.\\images\\rotationCyclePortfolio\\';                          
     var delayInSeconds = 1.5;                            
 
     var topProjects = ['Hamster.jpg', 'Koenigsegg.jpg', 'Amigos.png', 'Piano.jpg','Arduino.jpg'];
