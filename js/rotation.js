@@ -6,7 +6,7 @@ function start() {
     var delayInSeconds = 1.5;                            
 
     var topProjects = ['Hamster.jpg', 'Koenigsegg.jpg', 'Amigos.png', 'Piano.jpg','Arduino.jpg'];
-    var portfolioProjects = ['ContentImg.png', 'HciImg.png', 'InformatieArchitectuurImg.png', 'InternetImg.png', 'MaatschappijImg.png', 'NPDImg.Png', 'OGImg.jpg', 'Soundmachine.jpg', 'Team1Img.png', 'UCDImg.png', 'VidImg.png', 'Vormgeving2.jpg', 'VormgevingImg.png'];
+    var portfolioProjects = ['ContentImg.png', 'HciImg.png', 'InformatieArchitectuurImg.png', 'InternetImg.png', 'MaatschappijImg.png', 'NPDImg.png', 'OGImg.jpg', 'SoundMachine.jpg', 'Team1Img.png', 'UCDImg.png', 'VidImg.png', 'Vormgeving2.jpg', 'VormgevingImg.png'];
 
     var num = 0;
     var num2 = 0;
